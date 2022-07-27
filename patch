@@ -1,0 +1,15 @@
+function parseTodo (requestBody) {
+  const todo = {
+  // title: requestBody.title, completed : requestBody.complete, completedAt: requestBody.completed
+    /*
+      TODO [Урок 4.2]: Заполните описание задачи списка дел:
+      {
+        title: строка
+        completed: boolean
+        completedAt: дата завершения задачи для завершенных задач из списка дел
+                    или null для незавершенных задач
+      }
+    */
+  }
+  return todo
+}
